@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# DT267 - SAP Fiori for SAP S/4HANA – Rapid Activation and Content Management
 
 ## Description
 
