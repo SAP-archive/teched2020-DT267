@@ -20,7 +20,7 @@ During this session you will perform the following exercises:
 ## Requirements
 
 The prerequisites to perform the exercises are described in the [Quick Start DT267 Guide](Quick_Start_Guide_DT267_Trial_System_Setup.pdf).
-You need to set up your own Cloud Appliance Library(CAL) instance based on a preconfigured TechEd2020 DT267 CAL Solution.
+You need to set up your own Cloud Appliance Library (CAL) instance based on a preconfigured TechEd2020 DT267 CAL Solution.
 A step by step description to set it up is available in this Quick Start Guide.
 
 ## Exercises
