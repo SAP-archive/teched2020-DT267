@@ -19,25 +19,13 @@ During this session you will perform the following exercises:
 
 ## Requirements
 
-The requirements to perform the exercises are described in the Quick Start document.[Quick Start DT267 Document](DT267_Exercises.pdf)
-You need to set up your own Cloud Applicance Library(CAL) instance based on a preconfigured TechEd2020 DT267 CAL Solution.
+The requirements to perform the exercises are described in the [Quick Start DT267 Guide](TechEd_SAP_S4HANA_2020_DT267_Quick_Start_Guide.pdf)
+You need to set up your own Cloud Appliance Library(CAL) instance based on a preconfigured TechEd2020 DT267 CAL Solution.
 A step by step description to set it up is available in this Quick Start document.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
 Start the exercises [here](DT267_Exercises.pdf).
-    
 
 ## How to obtain support
 
