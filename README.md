@@ -6,11 +6,22 @@ This repository contains the material for the SAP TechEd 2020 session called DT2
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the several phases of an SAP Fiori implementation project.
+Starting with the discovery of SAP Fiori apps, you then will activate SAP Fiori content to experience SAP Fiori
+apps and finally customize the content and SAP Fiori launchpad page layout according to your needs. Hereby,
+SAP Fiori spaces and pages are introduced as a new concept to define the launchpad layout.
+During this session you will perform the following exercises:
+- Discover SAP Fiori Apps 
+- Activate SAP Fiori Content
+- Adapt and Customize SAP Fiori Content
+- Build Custom SAP Fiori Content from Scratch
+- Manage and Use Launchpad Spaces and Pages
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to perform the exercises are described in the Quick Start document.[Quick Start DT267 Document](DT267_Exercises.pdf)
+You need to set up your own Cloud Applicance Library(CAL) instance based on a preconfigured TechEd2020 DT267 CAL Solution.
+A step by step description to set it up is available in this Quick Start document.
 
 ## Exercises
 
