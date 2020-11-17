@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called DT267 - SAP Fiori for SAP S/4HANA - Rapid Activation and Content Management. 
+This repository contains the material for the SAP TechEd2020 - DT267 Workshop - SAP Fiori for SAP S/4HANA - Rapid Activation and Content Management. 
 
 ## Overview
 
