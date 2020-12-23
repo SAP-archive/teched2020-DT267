@@ -1,5 +1,7 @@
 # DT267 - SAP Fiori for SAP S/4HANA – Rapid Activation and Content Management
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DT267)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DT267)
+
 ## Description
 
 This repository contains the material for the SAP TechEd2020 - DT267 Workshop - SAP Fiori for SAP S/4HANA - Rapid Activation and Content Management. 
